@@ -5,6 +5,7 @@
  * @license For open source use: GPLv3
  *          For commercial use: JSColor Commercial License
  * @author  Jan Odvarko
+ * @version 2.0.4
  *
  * See usage examples at http://jscolor.com/examples/
  */
