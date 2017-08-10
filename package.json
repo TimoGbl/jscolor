@@ -1,0 +1,19 @@
+{
+  "name": "jscolor",
+  "version": "2.0.4",
+  "description": "",
+  "main": "jscolor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimoGbl/jscolor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimoGbl/jscolor/issues"
+  },
+  "homepage": "https://github.com/TimoGbl/jscolor#readme"
+}
